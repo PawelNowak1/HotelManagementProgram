@@ -1,0 +1,10 @@
+1;Jakub;Kasprzak;Polska, Katowice 40-141, Akademicka 16;+48231273213;
+2;Mateusz;Rura;Polska, Gliwice 40-247, Katowicka 16;+48231213213;
+3;Renata;Borek;Polska, Katowice 45-041, Akademicka 16;+48231323213;
+4;Remigiusz;Dusza;Polska, Poznan 40-9321, 3213;+9927;
+5;Daniel;Kowalski;Francja, Sosnowiec 40-342;+43394242;
+6;John;Smith;Anglia, Dolomity 41-242;+4394242;
+7;Lena;Mostowiak;Polska, Grabina 40-342;+4394242;
+8;Agata;Piach;Polska, Gola 40-342;+4394242;
+9;Andrzej;Nowak;Portugalia, Wilkowyje 43-342;+4394242;
+10;Adam;Kowalski;Hiszpania, Leganes 44-342;+4394242;

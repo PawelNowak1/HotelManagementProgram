@@ -1,0 +1,15 @@
+1;1000;100;Bardzo ladny pokoj, polecam serdecznie;3;
+2;4100;32;Tez fajny, zgrabny;2;
+3;120;214;Eksluzywny duzo lazienek;4;
+4;1230;24;2 sypialnie 3 kuchnie basen w lazience;4;
+5;300;314;Widok na morze bardzo fajny;1;
+6;200;414;Kolejny opis pokoju taki zwykly przykladowy;45;
+7;70;514;Czekam az recepcjonistka hotelu tu cos wpisze;2;
+8;60;614;Dalsze jakjes przykladowe opisy;3;
+10;50;814;10 salonow, konsola do gier, mini barek;2;
+11;30;914;zyc nie umierac w tym pokoju;4;
+12;50;294;w tym pokoju jest ladnie;2;
+634;60;420;Opis pokoju duzego;5;
+378;250;2;Opis pokoju malego;4;
+565;400;32;Opis pokoju, opis pokoju, opis pokoju;1;
+970;140;4a;Pokoj swietny polecam tak;2;
